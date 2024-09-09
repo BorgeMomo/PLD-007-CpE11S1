@@ -3,7 +3,8 @@ using namespace std;
 
 int main(){
 	
-	int x = 4, y = 2, sum = 0, difference = 0, product = 0, quotient = 0, remainder = 0;
+	int x = 4, y = 2, sum = 0, difference = 0, product = 0, remainder = 0;
+	float quotient = 0;
 	
 	sum = x + y;
 	difference = x - y;
