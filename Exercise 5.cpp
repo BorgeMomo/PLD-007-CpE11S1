@@ -50,7 +50,8 @@ int main()
 		case 'U':
 		cout<<"Vowel!"<<endl;
 		break;
-		
+
+		//If the input is none of the above
 		default:
 		{
 		cout<<"Consonant!"<<endl;
