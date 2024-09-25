@@ -12,43 +12,43 @@ int main()
 	switch(c)
 	{
 		case 'a':
-		cout<<"Vowel!"<<endl;
+		cout<<"Vowel!";
 		break;
 		
 		case 'A':
-		cout<<"Vowel!"<<endl;
+		cout<<"Vowel!";
 		break;
 		
 		case 'e':
-		cout<<"Vowel!"<<endl;
+		cout<<"Vowel!";
 		break;
 		
 		case 'E':
-		cout<<"Vowel!"<<endl;
+		cout<<"Vowel!";
 		break;
 		
 		case 'i':
-		cout<<"Vowel!"<<endl;
+		cout<<"Vowel!";
 		break;
 		
 		case 'I':
-		cout<<"Vowel!"<<endl;
+		cout<<"Vowel!";
 		break;
 		
 		case 'o':
-		cout<<"Vowel!"<<endl;
+		cout<<"Vowel!";
 		break;
 		
 		case 'O':
-		cout<<"Vowel!"<<endl;
+		cout<<"Vowel!";
 		break;
 		
 		case 'u':
-		cout<<"Vowel!"<<endl;
+		cout<<"Vowel!";
 		break;
 
 		case 'U':
-		cout<<"Vowel!"<<endl;
+		cout<<"Vowel!";
 		break;
 
 		//If the input is none of the above
