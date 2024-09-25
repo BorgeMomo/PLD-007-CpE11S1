@@ -52,10 +52,10 @@ int main()
 		break;
 		
 		default:
-			{
-			cout<<"Consonant!"<<endl;
-			break;
-			}
+		{
+		cout<<"Consonant!"<<endl;
+		break;
+		}
 	}
 
 	return 0;
