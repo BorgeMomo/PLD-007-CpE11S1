@@ -1,0 +1,65 @@
+MOMO, BORGE RUDOLF A.
+
+//Design a pseudocode for computing the area of a rectangle. The formula for computing the area of a rectangle is A=(½) (b)(h).
+
+Start
+Input base = b
+Input height = h
+Area = 0.5 * b * h
+Output Area
+End
+
+//Design a pseudocode for some common ATM machine transactions such as:
+
+//withdrawals
+
+Start
+Input PIN
+If PIN is correct then
+Input withdrawal amount
+Deduct withdrawal amount from balance
+Output "Withdrawal successful. Your remaining balance is: ", balance
+Else
+Output "Incorrect PIN"
+End
+
+//balance inquiries
+
+Start
+Input PIN
+If PIN is correct then
+Output "Your balance is: ", balance
+Else
+Output "Incorrect PIN"
+End
+
+//fund transfer
+
+Start
+Input PIN
+If PIN is correct then
+Input recipient account number
+Input transfer amount
+If transfer amount
+Deduct transfer amount from balance
+Add transfer amount to recipient account balance
+Output "Transfer successful, Your remaining balance is: ", balance
+Else
+Output "Incorrect PIN"
+End
+
+//PIN change
+
+Start
+Input current PIN
+If current PIN is correct then
+Input new PIN
+Confirm new PIN
+If new PIN matches confirmation then
+Update PIN
+Output "PIN successfully changed"
+Else
+Output "PIN are mismatched."
+Else
+Output "Incorrect current PIN"
+End
